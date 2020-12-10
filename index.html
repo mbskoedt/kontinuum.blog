@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="author" content="">
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <title>KONTINUUM</title>
+  <link rel="shortcut icon" type="image/png" href="img/favicon.png" />
+  <link href='https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Quicksand:wght@300;400;600&display=swap' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <div id="site-container">
+    <!-- onload="playOnLoad()" -->
+
+    <!-- loading from http://jsfiddle.net/MrPolywhirl/cbLsc81f/
+<div id="loading">
+  <video id="loading-screen" muted loop playsinline>
+    <source src="video/loading-screen-kontinuum.mp4" type="video/mp4">
+  </video>
+</div>
+-->
+    <div id="unique-front" class="site-container">
+      <!-- snippet from https://codepen.io/mutedblues/pen/MmPNPG -->
+      <header id="header" class="header">
+        <a href="#unique-front" id="front" class="logo" onclick="subNavRedirect(this)">
+          <img id="logo_1" src="img/logo-kontinuum.jpg" alt="logo">
+          <img id="logo_2" src="img/logo-kontinuum-with-text.png" alt="logo">
+        </a>
+        <input class="menu-btn" type="checkbox" id="menu-btn" />
+        <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+        <ul id="menu" class="menu">
+
+          <li>
+            <div class="sub-nav-header" onclick="expandNav(this)" onmouseenter="showSubMenu()" onmouseleave="removeSubMenu()">
+              <h4>CONTENT</h4>
+              <div id="sub-nav-triangle" class="triangle color-black"></div>
+            </div>
+            <ul id="content-subnav" class="display-none" onmouseenter="showSubMenu()" onmouseleave="removeSubMenu()">
+              <li><a id="first-post" onclick="subNavRedirect(this)">What is Kontinuum?</a></li>
+            </ul>
+          </li>
+
+          <li> <a href="#about" onclick="showPage('about')">ABOUT</a> </li>
+          <li> <a href="#contact" class="no-border" onclick="showPage('contact')">CONTACT</a> </li>
+        </ul>
+      </header>
+
+      <!--
+    <div id="cookie-alert" class="cookie-alert">
+      <div class="close" onclick="closeCookies()"></div>
+      <h5>Cookies</h5>
+      <div class="cookie-alert-content">
+        <p class="cookie-description">This site uses Cookies to increase page performance and <a href="https://cookie-script.com/all-you-need-to-know-about-third-party-cookies.html">3rd party Cookies.</a>
+          Read more or just press "Alright". I mean we all do.</p>
+        <div class="cookie-options">
+          <button type="button" class="pointer">
+            <p class="color-white" onclick="closeCookies()">Alright</p>
+          </button>
+          <a href="https://seositecheckup.com/articles/how-page-caching-optimizes-your-site-performance" target="_blank">Read more</a>
+        </div>
+      </div>
+    </div>
+  -->
+
+
+      <canvas id="canvas"></canvas>
+
+      <div class="background-text">
+        <h2>Straight from Aarhus' underground:</h2>
+        <br>
+        <h2> ART | ELECTRONIC MUSIC | LIVE | VIDEO </h2>
+        <h2> LIVEACTS | DJS | VJS </h2>
+
+      </div>
+      <!-- pages -->
+      <div id="pages-wrapper">
+        <!-- content page -->
+        <article id="content" class="page">
+          <div id="content-header" class="background-color-black" onclick="goTocontent()">
+            <div id="content-header-arrow" class="triangle color-white"></div>
+          </div>
+
+          <div id="unique-first-post" class="firstPost box">
+            <div class="hero-video-headline">
+              <div class="black-header-box"><h3>WHAT IS KONTINUUM?</h3></div>
+              <p>Watch the video below</p>
+            </div>
+            <video id="hero-video" class="pointer" onmouseenter="showControls()" onmouseleave="removeControls()">
+              <source src="video/placeholder.mov">
+            </video>
+            <p>
+              Kontinuum aim to promote underground and upcoming artists and to put Aarhus on the map as a fully fledged cultural and musical powerhouse.</p>
+            <a href="#about" id="CTA-about" class="pointer CTA-firstPost" onclick="showPage('about')">Read More</a>
+            <!--
+          <div class="post-selection">
+
+          <a class="next-post" href="${post.id}"> next post &darr; </a>
+          </div>
+          -->
+          </div>
+          <div id="grid-container">
+          </div>
+
+          <div id="content-footer" class="background-color-black pointer" onclick="toTheTop()">
+            <p>Back to top of page</p>
+          </div>
+        </article>
+
+        <!-- about page -->
+        <article id="about" class="page">
+          <div id="about-container"></div>
+        </article>
+
+        <!-- contact page -->
+        <article id="contact" class="page">
+          <div id="contact-container"></div>
+        </article>
+
+        <!-- FOOTER -->
+
+        <footer id="footer" class="footer-nav default">
+          <article class="sponsor-footer">
+            <h3>In collaboration with:</h3>
+            <div class="footer-container">
+
+              <img src="img/frontloeberne-logo.png" alt="frontløbernes logo">
+
+              <img src="img/pukk-logo.png" alt="questionmark">
+
+              <img src="img/you_fonde.jpg" alt="questionmark">
+
+            </div>
+          </article>
+          <article class="sub-footer background-color-black color-white">
+            <h3>Contact</h3>
+            <div class="footer-container footer-contact">
+              <a href="mailto:contact@kontinuum.one" target="_blank">contact@kontinuum.one</a>
+              |
+              <a href="tel:+4526825222" target="_blank">+45 26 82 52 22</a>
+              |
+              <a href="https://datacvr.virk.dk/data/visenhed?enhedstype=virksomhed&id=41453095&soeg=41453095&language=da" target="_blank">CVR.: 41453095</a>
+            </div>
+          </article>
+          <article class="background-color-white">
+            <h3>Follow us on any of these platforms:</h3>
+            <div class="footer-container footer-some">
+              <a href="https://www.facebook.com/Kontinuum-107963554446336/" target="_blank"><img src="img/facebook.png" alt="facebook logo"></a>
+
+              <a href="https://www.instagram.com/kontinuum_/" target="_blank"><img src="img/instagram.png" alt="instagram logo"></a>
+
+              <a href="https://soundcloud.com/user-280291195-432351244" target="_blank"><img src="img/soundcloud.png" alt="soundcloud logo"></a>
+
+              <a href="" target="_blank"><img src="img/youtube.png" alt="youtube logo"></a>
+            </div>
+          </article>
+        </footer>
+
+      </div>
+    </div>
+  </div>
+  <script src="javascript/fetch.js"></script>
+  <script src="./build/three.min.js"></script>
+  <script src="javascript/three_custom.js"></script>
+  <script src="javascript/javascript.js"></script>
+
+</body>
+
+</html>

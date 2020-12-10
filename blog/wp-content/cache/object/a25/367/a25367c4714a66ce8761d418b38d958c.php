@@ -1,0 +1,1 @@
+eöš_<?php exit; ?>a:1:{s:7:"content";a:4:{i:0;s:17:"ONE_CLICK_INSTALL";i:1;s:15:"STANDARD_THEMES";i:2;s:17:"PERFORMANCE_CACHE";i:3;s:14:"FREE_MIGRATION";}}

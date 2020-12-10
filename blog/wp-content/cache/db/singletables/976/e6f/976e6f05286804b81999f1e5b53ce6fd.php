@@ -1,0 +1,131 @@
+��_<?php exit; ?>a:6:{s:10:"last_error";s:0:"";s:10:"last_query";s:81:"SELECT blog_posts.* FROM blog_posts WHERE ID IN (191,186,50,46,42,38,33,29,25,18)";s:11:"last_result";a:10:{i:0;O:8:"stdClass":23:{s:2:"ID";s:2:"18";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2020-05-07 13:56:39";s:13:"post_date_gmt";s:19:"2020-05-07 12:56:39";s:12:"post_content";s:958:"<!-- wp:paragraph -->
+<p>Marie Louise Hvidman and Signe Maria Friis has created a collaborative piece, in which they explore the potentially symbiotic relationship created in the interaction between their respective creative processes and materials - textile and latex. <br>They work with shapes and objects that often refer or relate to the human anatomy and form. Textile becoming clothing and latex becoming skin. Both of them are interested in the tactility of materials and in this piece the two materials are investigated thoroughly. Throughout the process the materials used have been allowed to multiply and transform freely into new shapes, languages and expressions.<br><br>Check out their other work at:<br><a href="https://www.instagram.com/signemariafriis/">https://www.instagram.com/signemariafriis/</a><br><br>And<br><br><a href="https://www.instagram.com/marielouisehv/">https://www.instagram.com/marielouisehv/</a></p>
+<!-- /wp:paragraph -->";s:10:"post_title";s:42:"Marie Louise Hvidman and Signe Maria Friis";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:29:"marie-louise-westring-hvidman";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2020-08-20 13:00:33";s:17:"post_modified_gmt";s:19:"2020-08-20 12:00:33";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:32:"https://blog.kontinuum.one/?p=18";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}i:1;O:8:"stdClass":23:{s:2:"ID";s:2:"25";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2020-05-07 13:59:02";s:13:"post_date_gmt";s:19:"2020-05-07 12:59:02";s:12:"post_content";s:846:"<!-- wp:paragraph -->
+<p>Ramasyang brings decades of unadulterated love for electronic music to the stage. Ramasyang believes the best DJ sets stem from the chasm that exists between <em>subgenres</em>. <br><br>Meet him where disco, funk and soul bleeds into house and techno. With a particular fondness for deep house and tech house, especially of the groovy and funky variety, you can expect smooth beats from rare selections all throughout the set. <strong>Bring the heat!</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<figure><iframe width="100%" height="166" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/783154120&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe></figure>
+<!-- /wp:html -->";s:10:"post_title";s:9:"Ramasyang";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:9:"ramasyang";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2020-08-15 09:47:47";s:17:"post_modified_gmt";s:19:"2020-08-15 08:47:47";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:32:"https://blog.kontinuum.one/?p=25";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}i:2;O:8:"stdClass":23:{s:2:"ID";s:2:"29";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2020-05-07 14:01:03";s:13:"post_date_gmt";s:19:"2020-05-07 13:01:03";s:12:"post_content";s:1072:"<!-- wp:paragraph -->
+<p><em>"A fragment of the real world’s raw-material, commercial, or even a substitute for human memory? A photo is hard to define as we live in it’s constant stream."</em><br><br>In the video for this festival, Sofie Sjöö explores the limits and possibilities of photography, and how distortion can give birth to something entirely new.<br><br>Through composition, amount and shutter speed, hundreds of pictures taken during a drunken stroll through the nightlife suddenly comes to life, as sources of light start to dance in hypnotic rhythm.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/instagram {"url":"https://www.instagram.com/p/CCRutx5FkO0/?utm_source=ig_web_copy_link","type":"rich","providerNameSlug":"instagram","className":""} -->
+<figure class="wp-block-embed-instagram wp-block-embed is-type-rich is-provider-instagram"><div class="wp-block-embed__wrapper">
+https://www.instagram.com/p/CCRutx5FkO0/?utm_source=ig_web_copy_link
+</div></figure>
+<!-- /wp:core-embed/instagram -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->";s:10:"post_title";s:12:"Sofie Sjöö";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:13:"eddie-visuals";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2020-08-15 09:53:42";s:17:"post_modified_gmt";s:19:"2020-08-15 08:53:42";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:32:"https://blog.kontinuum.one/?p=29";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}i:3;O:8:"stdClass":23:{s:2:"ID";s:2:"33";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2020-05-07 14:03:30";s:13:"post_date_gmt";s:19:"2020-05-07 13:03:30";s:12:"post_content";s:967:"<!-- wp:paragraph -->
+<p>Venturing deep into Tiddys record collection, one would find a wide variety of <em>deep house, jungle, dub</em> and <em>dubstep </em>records. By blending classic and timeless tracks with fresh and carefully selected records from upcoming labels, Tiddys DJ sets gives the audience an authentic dance floor experience. <br><br>A DJ set from Tiddy offers the opportunity to experience the real, the raw and the raving sensations, felt and cultivated through years of raving. <br><br>Get your Shazam ready, 'cause Tiddy will throw dance floor bombs! <br>Listen to his latest set here:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<figure><iframe width="100%" height="166" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/777524782&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe></figure>
+<!-- /wp:html -->";s:10:"post_title";s:5:"Tiddy";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:5:"tiddy";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2020-06-02 09:46:10";s:17:"post_modified_gmt";s:19:"2020-06-02 08:46:10";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:32:"https://blog.kontinuum.one/?p=33";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}i:4;O:8:"stdClass":23:{s:2:"ID";s:2:"38";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2020-05-25 12:59:52";s:13:"post_date_gmt";s:19:"2020-05-25 11:59:52";s:12:"post_content";s:930:"<!-- wp:image {"id":126,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://blog.kontinuum.one/wp-content/uploads/2020/05/ticket-banner-1024x249.jpg" alt="" class="wp-image-126"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Get a ticket for this years event! <br><br>The event is free until 09:00 PM.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>After 10:00 PM we will kick everything up a notch and have a blast. For this, you will need a ticket.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wardrobe is free for the entire event. <br><br>Food and beverages can be bought separately at the event.<br><br><strong>Price is 100 DKK.</strong><br><br>There is a max capacity of 150 human beings in the room. Therefore the amount of tickets for sale is 150. <br><em>Max 1 ticket pr. person. </em><br><br>The tickets will be sold from 1st of September.</p>
+<!-- /wp:paragraph -->";s:10:"post_title";s:7:"Tickets";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:7:"tickets";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2020-08-15 09:51:15";s:17:"post_modified_gmt";s:19:"2020-08-15 08:51:15";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:32:"https://blog.kontinuum.one/?p=38";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}i:5;O:8:"stdClass":23:{s:2:"ID";s:2:"42";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2020-05-25 13:18:29";s:13:"post_date_gmt";s:19:"2020-05-25 12:18:29";s:12:"post_content";s:1593:"<!-- wp:video {"id":132} -->
+<figure class="wp-block-video"><video controls src="http://blog.kontinuum.one/wp-content/uploads/2020/06/hero-video-kontinuum.mp4"></video></figure>
+<!-- /wp:video -->
+
+<!-- wp:paragraph -->
+<p>Within Godsbanen in central Aarhus you will find several <strong>Black Boxes</strong>, typically used for theater. Kontinuum will take place in these unique and intense surroundings. The location can be seen as a blank canvas upon which we, the musicians and artists, will paint with light and sound.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Box_1</strong> will act as the main stage for live acts as well as DJs, but also present a wide spectrum of <em>visual- and installation art</em>. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Box_2</strong> will be home to <em>video and performance art</em>, while also being the perfect spot for taking a breather and hanging out.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Through Box_1 you can visit <strong>Box_0.1 and Box_0.2.</strong> Although significantly smaller, these rooms will be fully transformed into<em> </em>two different<em> audiovisual experiences</em> by artists with complete creative control.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The only thing we are missing is a <strong>crowd </strong>of ecstatic and open minded people with an already established or growing appreciation for <em>electronic music and art.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>We are counting on <em>you</em>!</strong></p>
+<!-- /wp:paragraph -->";s:10:"post_title";s:8:"Location";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:8:"location";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2020-08-15 09:36:38";s:17:"post_modified_gmt";s:19:"2020-08-15 08:36:38";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:32:"https://blog.kontinuum.one/?p=42";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}i:6;O:8:"stdClass":23:{s:2:"ID";s:2:"46";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2020-05-25 13:19:34";s:13:"post_date_gmt";s:19:"2020-05-25 12:19:34";s:12:"post_content";s:1356:"<!-- wp:image {"id":114,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://blog.kontinuum.one/wp-content/uploads/2020/05/kontinuum-banner-1-1024x249.jpg" alt="" class="wp-image-114"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Kontinuum is an collective of likeminded individuals born, bred and based in Aarhus. We are primarily centered around <em>electronic music</em> and <em>visual arts</em>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We aim to promote underground and upcoming artists and to put Aarhus on the map as a fully fledged cultural and musical powerhouse.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We want to present unique and intensely authentic experiences for the attendants by introducing them to the best DJs, producers and artists that the danish underground has to offer in unconventional and stimulating surroundings.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>By merging old school rave aesthetics with contemporary artforms and technology we wish to create longlasting memories with the participants while at the same time showing the rest of the community what Aarhus is all about.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Welcome to Kontinuum.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->";s:10:"post_title";s:8:"About us";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:8:"about-us";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2020-06-25 14:08:44";s:17:"post_modified_gmt";s:19:"2020-06-25 13:08:44";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:32:"https://blog.kontinuum.one/?p=46";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}i:7;O:8:"stdClass":23:{s:2:"ID";s:2:"50";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2020-05-25 13:21:15";s:13:"post_date_gmt";s:19:"2020-05-25 12:21:15";s:12:"post_content";s:1089:"<!-- wp:image {"id":130,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://blog.kontinuum.one/wp-content/uploads/2020/05/contact-banner-2-1024x249.jpg" alt="" class="wp-image-130"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Want to perform for a future event?  Don't hesitate to throw us a message at:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><a href="mailto:artists@kontinuum.one" target="_blank" rel="noreferrer noopener">artists@kontinuum.one</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">For other questions use:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><a rel="noreferrer noopener" href="mailto:contact@kontinuum.one" target="_blank">contact@kontinuum.one</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Join us on Facebook.</p>
+<!-- /wp:paragraph -->";s:10:"post_title";s:7:"Contact";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:7:"contact";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2020-08-15 09:48:27";s:17:"post_modified_gmt";s:19:"2020-08-15 08:48:27";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:32:"https://blog.kontinuum.one/?p=50";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}i:8;O:8:"stdClass":23:{s:2:"ID";s:3:"186";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2020-08-20 12:55:18";s:13:"post_date_gmt";s:19:"2020-08-20 11:55:18";s:12:"post_content";s:649:"<!-- wp:paragraph -->
+<p>"Here I sit and want to put in the right words to describe the pursuit of my practice.<br>Something that all contemporary artists need to do, to be portrayed and easily understood by others.<br>The necessity for others to know and understand what I do.<br>May it be the expected perception of how a space is observed and felt or the unexpected shock through the body when a ladder falls to the ground behind you.<br><br>My personal journey in conflict with a grand desire for a great narrative.<br>The fundamental and mutual reaction to bewilderment and the reactions we share as thinking beings."</p>
+<!-- /wp:paragraph -->";s:10:"post_title";s:13:"Frej Volander";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:13:"frej-volander";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2020-08-20 12:58:07";s:17:"post_modified_gmt";s:19:"2020-08-20 11:58:07";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:32:"http://blog.kontinuum.one/?p=186";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}i:9;O:8:"stdClass":23:{s:2:"ID";s:3:"191";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2020-08-20 12:57:51";s:13:"post_date_gmt";s:19:"2020-08-20 11:57:51";s:12:"post_content";s:663:"<!-- wp:paragraph -->
+<p>Equally suited for dancing and dreaming, Dirt White brings you experimental electronic music from a place between the late night clubs of Berlin and somewhere way up in the clouds.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dirt White is organic spacious soundscapes coupled with drum machines on overdrive. Meditative and trance-inducing, you might just lose yourself.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dirt White will play live for you all.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Check out his website on:<br><a href="http://www.dirtwhite.com/">www.dirtwhite.com</a></p>
+<!-- /wp:paragraph -->";s:10:"post_title";s:10:"Dirt White";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:10:"dirt-white";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2020-08-20 12:57:55";s:17:"post_modified_gmt";s:19:"2020-08-20 11:57:55";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:32:"http://blog.kontinuum.one/?p=191";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}s:8:"col_info";a:23:{i:0;O:8:"stdClass":13:{s:4:"name";s:2:"ID";s:7:"orgname";s:2:"ID";s:5:"table";s:10:"blog_posts";s:8:"orgtable";s:10:"blog_posts";s:3:"def";s:0:"";s:2:"db";s:22:"kontinuum_onewordpress";s:7:"catalog";s:3:"def";s:10:"max_length";i:3;s:6:"length";i:20;s:9:"charsetnr";i:63;s:5:"flags";i:49699;s:4:"type";i:8;s:8:"decimals";i:0;}i:1;O:8:"stdClass":13:{s:4:"name";s:11:"post_author";s:7:"orgname";s:11:"post_author";s:5:"table";s:10:"blog_posts";s:8:"orgtable";s:10:"blog_posts";s:3:"def";s:0:"";s:2:"db";s:22:"kontinuum_onewordpress";s:7:"catalog";s:3:"def";s:10:"max_length";i:1;s:6:"length";i:20;s:9:"charsetnr";i:63;s:5:"flags";i:49193;s:4:"type";i:8;s:8:"decimals";i:0;}i:2;O:8:"stdClass":13:{s:4:"name";s:9:"post_date";s:7:"orgname";s:9:"post_date";s:5:"table";s:10:"blog_posts";s:8:"orgtable";s:10:"blog_posts";s:3:"def";s:0:"";s:2:"db";s:22:"kontinuum_onewordpress";s:7:"catalog";s:3:"def";s:10:"max_length";i:19;s:6:"length";i:19;s:9:"charsetnr";i:63;s:5:"flags";i:16513;s:4:"type";i:12;s:8:"decimals";i:0;}i:3;O:8:"stdClass":13:{s:4:"name";s:13:"post_date_gmt";s:7:"orgname";s:13:"post_date_gmt";s:5:"table";s:10:"blog_posts";s:8:"orgtable";s:10:"blog_posts";s:3:"def";s:0:"";s:2:"db";s:22:"kontinuum_onewordpress";s:7:"catalog";s:3:"def";s:10:"max_length";i:19;s:6:"length";i:19;s:9:"charsetnr";i:63;s:5:"flags";i:129;s:4:"type";i:12;s:8:"decimals";i:0;}i:4;O:8:"stdClass":13:{s:4:"name";s:12:"post_content";s:7:"orgname";s:12:"post_content";s:5:"table";s:10:"blog_posts";s:8:"orgtable";s:10:"blog_posts";s:3:"def";s:0:"";s:2:"db";s:22:"kontinuum_onewordpress";s:7:"catalog";s:3:"def";s:10:"max_length";i:1593;s:6:"length";i:4294967295;s:9:"charsetnr";i:224;s:5:"flags";i:4113;s:4:"type";i:252;s:8:"decimals";i:0;}i:5;O:8:"stdClass":13:{s:4:"name";s:10:"post_title";s:7:"orgname";s:10:"post_title";s:5:"table";s:10:"blog_posts";s:8:"orgtable";s:10:"blog_posts";s:3:"def";s:0:"";s:2:"db";s:22:"kontinuum_onewordpress";s:7:"catalog";s:3:"def";s:10:"max_length";i:42;s:6:"length";i:262140;s:9:"charsetnr";i:224;s:5:"flags";i:4113;s:4:"type";i:252;s:8:"decimals";i:0;}i:6;O:8:"stdClass":13:{s:4:"name";s:12:"post_excerpt";s:7:"orgname";s:12:"post_excerpt";s:5:"table";s:10:"blog_posts";s:8:"orgtable";s:10:"blog_posts";s:3:"def";s:0:"";s:2:"db";s:22:"kontinuum_onewordpress";s:7:"catalog";s:3:"def";s:10:"max_length";i:0;s:6:"length";i:262140;s:9:"charsetnr";i:224;s:5:"flags";i:4113;s:4:"type";i:252;s:8:"decimals";i:0;}i:7;O:8:"stdClass":13:{s:4:"name";s:11:"post_status";s:7:"orgname";s:11:"post_status";s:5:"table";s:10:"blog_posts";s:8:"orgtable";s:10:"blog_posts";s:3:"def";s:0:"";s:2:"db";s:22:"kontinuum_onewordpress";s:7:"catalog";s:3:"def";s:10:"max_length";i:7;s:6:"length";i:80;s:9:"charsetnr";i:224;s:5:"flags";i:16385;s:4:"type";i:253;s:8:"decimals";i:0;}i:8;O:8:"stdClass":13:{s:4:"name";s:14:"comment_status";s:7:"orgname";s:14:"comment_status";s:5:"table";s:10:"blog_posts";s:8:"orgtable";s:10:"blog_posts";s:3:"def";s:0:"";s:2:"db";s:22:"kontinuum_onewordpress";s:7:"catalog";s:3:"def";s:10:"max_length";i:4;s:6:"length";i:80;s:9:"charsetnr";i:224;s:5:"flags";i:1;s:4:"type";i:253;s:8:"decimals";i:0;}i:9;O:8:"stdClass":13:{s:4:"name";s:11:"ping_status";s:7:"orgname";s:11:"ping_status";s:5:"table";s:10:"blog_posts";s:8:"orgtable";s:10:"blog_posts";s:3:"def";s:0:"";s:2:"db";s:22:"kontinuum_onewordpress";s:7:"catalog";s:3:"def";s:10:"max_length";i:4;s:6:"length";i:80;s:9:"charsetnr";i:224;s:5:"flags";i:1;s:4:"type";i:253;s:8:"decimals";i:0;}i:10;O:8:"stdClass":13:{s:4:"name";s:13:"post_password";s:7:"orgname";s:13:"post_password";s:5:"table";s:10:"blog_posts";s:8:"orgtable";s:10:"blog_posts";s:3:"def";s:0:"";s:2:"db";s:22:"kontinuum_onewordpress";s:7:"catalog";s:3:"def";s:10:"max_length";i:0;s:6:"length";i:1020;s:9:"charsetnr";i:224;s:5:"flags";i:1;s:4:"type";i:253;s:8:"decimals";i:0;}i:11;O:8:"stdClass":13:{s:4:"name";s:9:"post_name";s:7:"orgname";s:9:"post_name";s:5:"table";s:10:"blog_posts";s:8:"orgtable";s:10:"blog_posts";s:3:"def";s:0:"";s:2:"db";s:22:"kontinuum_onewordpress";s:7:"catalog";s:3:"def";s:10:"max_length";i:29;s:6:"length";i:800;s:9:"charsetnr";i:224;s:5:"flags";i:16393;s:4:"type";i:253;s:8:"decimals";i:0;}i:12;O:8:"stdClass":13:{s:4:"name";s:7:"to_ping";s:7:"orgname";s:7:"to_ping";s:5:"table";s:10:"blog_posts";s:8:"orgtable";s:10:"blog_posts";s:3:"def";s:0:"";s:2:"db";s:22:"kontinuum_onewordpress";s:7:"catalog";s:3:"def";s:10:"max_length";i:0;s:6:"length";i:262140;s:9:"charsetnr";i:224;s:5:"flags";i:4113;s:4:"type";i:252;s:8:"decimals";i:0;}i:13;O:8:"stdClass":13:{s:4:"name";s:6:"pinged";s:7:"orgname";s:6:"pinged";s:5:"table";s:10:"blog_posts";s:8:"orgtable";s:10:"blog_posts";s:3:"def";s:0:"";s:2:"db";s:22:"kontinuum_onewordpress";s:7:"catalog";s:3:"def";s:10:"max_length";i:0;s:6:"length";i:262140;s:9:"charsetnr";i:224;s:5:"flags";i:4113;s:4:"type";i:252;s:8:"decimals";i:0;}i:14;O:8:"stdClass":13:{s:4:"name";s:13:"post_modified";s:7:"orgname";s:13:"post_modified";s:5:"table";s:10:"blog_posts";s:8:"orgtable";s:10:"blog_posts";s:3:"def";s:0:"";s:2:"db";s:22:"kontinuum_onewordpress";s:7:"catalog";s:3:"def";s:10:"max_length";i:19;s:6:"length";i:19;s:9:"charsetnr";i:63;s:5:"flags";i:129;s:4:"type";i:12;s:8:"decimals";i:0;}i:15;O:8:"stdClass":13:{s:4:"name";s:17:"post_modified_gmt";s:7:"orgname";s:17:"post_modified_gmt";s:5:"table";s:10:"blog_posts";s:8:"orgtable";s:10:"blog_posts";s:3:"def";s:0:"";s:2:"db";s:22:"kontinuum_onewordpress";s:7:"catalog";s:3:"def";s:10:"max_length";i:19;s:6:"length";i:19;s:9:"charsetnr";i:63;s:5:"flags";i:129;s:4:"type";i:12;s:8:"decimals";i:0;}i:16;O:8:"stdClass":13:{s:4:"name";s:21:"post_content_filtered";s:7:"orgname";s:21:"post_content_filtered";s:5:"table";s:10:"blog_posts";s:8:"orgtable";s:10:"blog_posts";s:3:"def";s:0:"";s:2:"db";s:22:"kontinuum_onewordpress";s:7:"catalog";s:3:"def";s:10:"max_length";i:0;s:6:"length";i:4294967295;s:9:"charsetnr";i:224;s:5:"flags";i:4113;s:4:"type";i:252;s:8:"decimals";i:0;}i:17;O:8:"stdClass":13:{s:4:"name";s:11:"post_parent";s:7:"orgname";s:11:"post_parent";s:5:"table";s:10:"blog_posts";s:8:"orgtable";s:10:"blog_posts";s:3:"def";s:0:"";s:2:"db";s:22:"kontinuum_onewordpress";s:7:"catalog";s:3:"def";s:10:"max_length";i:1;s:6:"length";i:20;s:9:"charsetnr";i:63;s:5:"flags";i:49193;s:4:"type";i:8;s:8:"decimals";i:0;}i:18;O:8:"stdClass":13:{s:4:"name";s:4:"guid";s:7:"orgname";s:4:"guid";s:5:"table";s:10:"blog_posts";s:8:"orgtable";s:10:"blog_posts";s:3:"def";s:0:"";s:2:"db";s:22:"kontinuum_onewordpress";s:7:"catalog";s:3:"def";s:10:"max_length";i:32;s:6:"length";i:1020;s:9:"charsetnr";i:224;s:5:"flags";i:1;s:4:"type";i:253;s:8:"decimals";i:0;}i:19;O:8:"stdClass":13:{s:4:"name";s:10:"menu_order";s:7:"orgname";s:10:"menu_order";s:5:"table";s:10:"blog_posts";s:8:"orgtable";s:10:"blog_posts";s:3:"def";s:0:"";s:2:"db";s:22:"kontinuum_onewordpress";s:7:"catalog";s:3:"def";s:10:"max_length";i:1;s:6:"length";i:11;s:9:"charsetnr";i:63;s:5:"flags";i:32769;s:4:"type";i:3;s:8:"decimals";i:0;}i:20;O:8:"stdClass":13:{s:4:"name";s:9:"post_type";s:7:"orgname";s:9:"post_type";s:5:"table";s:10:"blog_posts";s:8:"orgtable";s:10:"blog_posts";s:3:"def";s:0:"";s:2:"db";s:22:"kontinuum_onewordpress";s:7:"catalog";s:3:"def";s:10:"max_length";i:4;s:6:"length";i:80;s:9:"charsetnr";i:224;s:5:"flags";i:16393;s:4:"type";i:253;s:8:"decimals";i:0;}i:21;O:8:"stdClass":13:{s:4:"name";s:14:"post_mime_type";s:7:"orgname";s:14:"post_mime_type";s:5:"table";s:10:"blog_posts";s:8:"orgtable";s:10:"blog_posts";s:3:"def";s:0:"";s:2:"db";s:22:"kontinuum_onewordpress";s:7:"catalog";s:3:"def";s:10:"max_length";i:0;s:6:"length";i:400;s:9:"charsetnr";i:224;s:5:"flags";i:1;s:4:"type";i:253;s:8:"decimals";i:0;}i:22;O:8:"stdClass":13:{s:4:"name";s:13:"comment_count";s:7:"orgname";s:13:"comment_count";s:5:"table";s:10:"blog_posts";s:8:"orgtable";s:10:"blog_posts";s:3:"def";s:0:"";s:2:"db";s:22:"kontinuum_onewordpress";s:7:"catalog";s:3:"def";s:10:"max_length";i:1;s:6:"length";i:20;s:9:"charsetnr";i:63;s:5:"flags";i:32769;s:4:"type";i:8;s:8:"decimals";i:0;}}s:8:"num_rows";i:10;s:10:"return_val";i:10;}
