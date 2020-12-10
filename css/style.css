@@ -308,6 +308,10 @@ button {
   display: none;
 }
 
+#menu {
+  overflow: scroll;
+}
+
 .header ul {
   margin: 0;
   padding: 0;
