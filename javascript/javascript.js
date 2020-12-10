@@ -27,20 +27,6 @@ onReady(function() {
 });
 */
 
-// Remove onclick on big screeb
-/*
-var x = window.matchMedia("(max-width: 1040px)")
-x.addListener(mediaQuery) // Attach listener function on state changes
-
-function mediaQuery(x) {
-  if (x.matches) {
-
-  } else {
-    document.getElementById("content-subnav").onclick = null;
-  }
-}
-
-*/
 // SPA
 
 // hide all pages
@@ -197,18 +183,25 @@ function expandNav(element) {
   let arrow = document.getElementById("sub-nav-triangle")
   let expandedSubNav = document.getElementById("content-subnav")
 
-  if (expandedSubNav.classList.contains("display-none")) {
-    arrow.classList.remove("rotateTop");
-    arrow.classList.add("rotateDown");
-    expandedSubNav.classList.remove("display-none");
-    expandedSubNav.classList.add("display-block");
-    console.log("Down")
-  } else {
-    arrow.classList.remove("rotateDown");
-    arrow.classList.add("rotateTop");
-    expandedSubNav.classList.remove("display-block");
-    expandedSubNav.classList.add("display-none");
-    console.log("up")
+  var queryString = window.matchMedia("(max-width: 1040px)")
+  queryString.addListener(mediaQuery) // Attach listener function on state changes
+  function mediaQuery(queryString) {
+console.log(queryString);
+    if (queryString.matches) {
+console.log(queryString);
+      if (expandedSubNav.classList.contains("display-none")) {
+        arrow.classList.remove("rotateTop");
+        arrow.classList.add("rotateDown");
+        expandedSubNav.classList.remove("display-none");
+        expandedSubNav.classList.add("display-block");
+        console.log("Down")
+      } else {
+        arrow.classList.remove("rotateDown");
+        arrow.classList.add("rotateTop");
+        expandedSubNav.classList.remove("display-block");
+        expandedSubNav.classList.add("display-none");
+        console.log("up")
+      }
+    }
   }
-}
-*/
+} */
