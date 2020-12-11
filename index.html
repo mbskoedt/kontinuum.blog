@@ -13,17 +13,17 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 
-<body>
+<body onload="playOnLoad()">
   <div id="site-container">
-    <!-- onload="playOnLoad()" -->
 
-    <!-- loading from http://jsfiddle.net/MrPolywhirl/cbLsc81f/
-<div id="loading">
-  <video id="loading-screen" muted loop playsinline>
-    <source src="video/loading-screen-kontinuum.mp4" type="video/mp4">
-  </video>
-</div>
--->
+
+    <!-- loading from http://jsfiddle.net/MrPolywhirl/cbLsc81f/ -->
+    <div id="loading">
+      <video id="loading-screen" muted loop playsinline>
+        <source src="video/loading-screen-kontinuum.mp4" type="video/mp4">
+      </video>
+    </div>
+
     <div id="unique-front" class="site-container">
       <!-- snippet from https://codepen.io/mutedblues/pen/MmPNPG -->
       <header id="header" class="header">
@@ -50,22 +50,20 @@
         </ul>
       </header>
 
-      <!--
-    <div id="cookie-alert" class="cookie-alert">
-      <div class="close" onclick="closeCookies()"></div>
-      <h5>Cookies</h5>
-      <div class="cookie-alert-content">
-        <p class="cookie-description">This site uses Cookies to increase page performance and <a href="https://cookie-script.com/all-you-need-to-know-about-third-party-cookies.html">3rd party Cookies.</a>
-          Read more or just press "Alright". I mean we all do.</p>
-        <div class="cookie-options">
-          <button type="button" class="pointer">
-            <p class="color-white" onclick="closeCookies()">Alright</p>
-          </button>
-          <a href="https://seositecheckup.com/articles/how-page-caching-optimizes-your-site-performance" target="_blank">Read more</a>
+      <div id="cookie-alert" class="cookie-alert">
+        <div class="close" onclick="closeCookies()"></div>
+        <h5>Cookies</h5>
+        <div class="cookie-alert-content">
+          <p class="cookie-description">This site uses Cookies to increase page performance and <a href="https://cookie-script.com/all-you-need-to-know-about-third-party-cookies.html">3rd party Cookies.</a>
+            Read more or just press "Alright". I mean we all do.</p>
+          <div class="cookie-options">
+            <button type="button" class="pointer">
+              <p class="color-white" onclick="closeCookies()">Alright</p>
+            </button>
+            <a href="https://seositecheckup.com/articles/how-page-caching-optimizes-your-site-performance" target="_blank">Read more</a>
+          </div>
         </div>
       </div>
-    </div>
-  -->
 
 
       <canvas id="canvas"></canvas>
@@ -87,7 +85,9 @@
 
           <div id="unique-first-post" class="firstPost box">
             <div class="hero-video-headline">
-              <div class="black-header-box"><h3>WHAT IS KONTINUUM?</h3></div>
+              <div class="black-header-box">
+                <h3>WHAT IS KONTINUUM?</h3>
+              </div>
               <p>Watch the video below</p>
             </div>
             <video id="hero-video" class="pointer" autoplay controls muted loop>

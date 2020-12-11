@@ -1,5 +1,5 @@
 // loading screen
-/*
+
 var loadingScreen = document.getElementById("loading-screen");
 
 function playOnLoad() {
@@ -24,8 +24,9 @@ function show(id, value) {
 onReady(function() {
   setDefaultPage();
   show('loading', false);
+  setDefaultPage();
 });
-*/
+
 
 // SPA
 
@@ -74,8 +75,6 @@ function setActiveTab(pageId) {
   }
 }
 
-setDefaultPage();
-
 // go to content window from arrow
 
 function goTocontent() {
@@ -120,18 +119,6 @@ function closeCookies() {
   cookieAlert.classList.add("displayNone");
 }
 
-// show/hide video player
-
-let heroVideo = document.getElementById("hero-video");
-
-function showControls() {
-  heroVideo.setAttribute("controls", "controls")
-}
-
-function removeControls() {
-  heroVideo.removeAttribute("controls")
-}
-
 // show/hide sub menu
 
 function toogleSubMenu() {
@@ -156,33 +143,3 @@ function toogleSubMenu() {
 function removeControls() {
   heroVideo.removeAttribute("controls")
 }
-
-
-// expand navbar animation
-/*
-function expandNav(element) {
-  let arrow = document.getElementById("sub-nav-triangle")
-  let expandedSubNav = document.getElementById("content-subnav")
-
-  var queryString = window.matchMedia("(max-width: 1040px)")
-  queryString.addListener(mediaQuery) // Attach listener function on state changes
-  function mediaQuery(queryString) {
-console.log(queryString);
-    if (queryString.matches) {
-console.log(queryString);
-      if (expandedSubNav.classList.contains("display-none")) {
-        arrow.classList.remove("rotateTop");
-        arrow.classList.add("rotateDown");
-        expandedSubNav.classList.remove("display-none");
-        expandedSubNav.classList.add("display-block");
-        console.log("Down")
-      } else {
-        arrow.classList.remove("rotateDown");
-        arrow.classList.add("rotateTop");
-        expandedSubNav.classList.remove("display-block");
-        expandedSubNav.classList.add("display-none");
-        console.log("up")
-      }
-    }
-  }
-} */
