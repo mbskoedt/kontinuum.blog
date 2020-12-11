@@ -134,7 +134,7 @@ function removeControls() {
 
 // show/hide sub menu
 
-function showSubMenu() {
+function toogleSubMenu() {
   let arrow = document.getElementById("sub-nav-triangle")
   let expandedSubNav = document.getElementById("content-subnav")
 
@@ -143,32 +143,13 @@ function showSubMenu() {
     arrow.classList.add("rotateDown");
     expandedSubNav.classList.remove("display-none");
     expandedSubNav.classList.add("display-block");
-    console.log("Down")
+
   } else {
     arrow.classList.remove("rotateDown");
     arrow.classList.add("rotateTop");
     expandedSubNav.classList.remove("display-block");
     expandedSubNav.classList.add("display-none");
-    console.log("up")
-  }
-}
 
-function removeSubMenu() {
-  let arrow = document.getElementById("sub-nav-triangle")
-  let expandedSubNav = document.getElementById("content-subnav")
-
-  if (expandedSubNav.classList.contains("display-none")) {
-    arrow.classList.remove("rotateTop");
-    arrow.classList.add("rotateDown");
-    expandedSubNav.classList.remove("display-none");
-    expandedSubNav.classList.add("display-block");
-    console.log("Down")
-  } else {
-    arrow.classList.remove("rotateDown");
-    arrow.classList.add("rotateTop");
-    expandedSubNav.classList.remove("display-block");
-    expandedSubNav.classList.add("display-none");
-    console.log("up")
   }
 }
 

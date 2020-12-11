@@ -1,17 +1,29 @@
 "use strict";
 
-var x = window.matchMedia("(max-width: 780px)")
+var x = window.matchMedia("(max-width: 1040px)")
 x.addListener(mediaQuery) // Attach listener function on state changes
 
 function mediaQuery(x) {
-
+var element = document.getElementById("navWithSubnav");
   if (x.matches) {
+console.log("small");
+    element.onclick = function(event) {
+      toogleSubMenu();
+    };
 
     var width = window.innerWidth;
     var height = window.innerHeight;
     var cubeSize = 75;
 
   } else {
+console.log("big");
+    element.onmouseenter = function(event) {
+      toogleSubMenu();
+    };
+
+    element.onmouseleave = function(event) {
+      toogleSubMenu();
+    };
 
     var width = window.innerWidth / 2;
     var height = window.innerHeight;

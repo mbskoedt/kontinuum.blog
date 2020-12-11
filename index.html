@@ -35,12 +35,12 @@
         <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
         <ul id="menu" class="menu">
 
-          <li>
-            <div class="sub-nav-header" onclick="expandNav(this)" onmouseenter="showSubMenu()" onmouseleave="removeSubMenu()">
+          <li id="navWithSubnav" onmouseenter="toogleSubMenu()" onmouseleave="toogleSubMenu()">
+            <div class="sub-nav-header">
               <h4>CONTENT</h4>
               <div id="sub-nav-triangle" class="triangle color-black"></div>
             </div>
-            <ul id="content-subnav" class="display-none" onmouseenter="showSubMenu()" onmouseleave="removeSubMenu()">
+            <ul id="content-subnav" class="display-none">
               <li><a id="first-post" onclick="subNavRedirect(this)">What is Kontinuum?</a></li>
             </ul>
           </li>
@@ -90,7 +90,7 @@
               <div class="black-header-box"><h3>WHAT IS KONTINUUM?</h3></div>
               <p>Watch the video below</p>
             </div>
-            <video id="hero-video" class="pointer" onmouseenter="showControls()" onmouseleave="removeControls()">
+            <video id="hero-video" class="pointer">
               <source src="video/placeholder.mov">
             </video>
             <p>
@@ -163,10 +163,10 @@
       </div>
     </div>
   </div>
+  <script src="javascript/javascript.js"></script>
   <script src="javascript/fetch.js"></script>
   <script src="./build/three.min.js"></script>
   <script src="javascript/three_custom.js"></script>
-  <script src="javascript/javascript.js"></script>
 
 </body>
 
